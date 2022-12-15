@@ -2,7 +2,7 @@ Summary Election Night Reporting Files as taken from press.azsos.gov during the 
 
 turnout.csv is an aggregation of the turnout section of the summary files. It includes a time stamp of the xml file and ballot statistics by county.
 
-This also includes any outstanding ballot estimates made by county election officials. Note: I had an error in my code for the "ballots_remaining" column so as of 12/15/2022 this column is zeroed out. I will regenerate the file when I have time.
+This also includes any outstanding ballot estimates made by county election officials. Note: I had an error in my code for the "ballots_remaining" column so as of 12/15/2022 this column is zeroed out. I will regenerate the file when I have time. The Raw XML is untouched and will have the number in them.
 
 Columns:
 -time_stamp
@@ -18,3 +18,6 @@ Columns:
 -ballots_remaining: Estimate by the county on how many ballots in total remain (zeroed out as of 12/15/2022 due to a coding error by me.)
 -earlies_remaining: Estimated number of ballots still in posession of the county recorder for signature verification processing.
 -prov_remaining: Estimated number of Provisional Ballots/
+
+
+T
