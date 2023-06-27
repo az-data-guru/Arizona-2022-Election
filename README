@@ -13,6 +13,6 @@ This repository contains files associated with the 2022 General Election in Ariz
 	**ELECTDATE**: Integer date of the election.
 	**CITY**: Name of the city on the voter's registration address.
 	**PARTY**: Party identification. REP = Republican, DEM = Democratic, IND/PND = Independent (No meaningful difference).
-	**BALTYPE**: Ballot type. R = Ballot by Mail, B = In Person Early, P = Polling Place, Q = Provisional.
+	**BALTYPE**: Ballot type. R = Ballot by Mail, B = In Person Early, P = Polling Place, Q = NOT COUNTED.
 	**AEVL**: Arizona Early Voting List.
 	**hashed_VID**: Voter ID that is key hashed for privacy reasons.
