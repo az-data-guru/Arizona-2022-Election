@@ -15,5 +15,5 @@ Files associated with the 2022 General Election.
 		* CITY: Name of City on the voter's registration address.
 		* PARTY: Party: REP = Republican, DEM = Democratic, IND/PND = Independent (No meaningful difference)
 		* BALTYPE: R = Ballot by Mail, B = In Person Early, P = Polling Place, Q = Provisional
-		* AEVL: Arizona Early Voting List
+		* CPC: Voting Precinct
 		* hashed_VID: Key hashed Voter ID for privacy reasons.
